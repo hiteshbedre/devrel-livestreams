@@ -20,3 +20,4 @@ Copyright (C) 2019 HERE Europe B.V.
 
 Licensed under the Apache-2.0 license, see the [LICENSE](./LICENSE) file in the root of this project for license details.
 
+trigger 1
